@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+SnapSketch/__init__.py
+SnapSketch.egg-info/PKG-INFO
+SnapSketch.egg-info/SOURCES.txt
+SnapSketch.egg-info/dependency_links.txt
+SnapSketch.egg-info/top_level.txt
